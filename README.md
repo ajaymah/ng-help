@@ -1,4 +1,3 @@
-ng help
 <article class="markdown-body entry-content">
 <h1>ng-class with condison</h1>
 </article>
